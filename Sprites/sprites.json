@@ -1,0 +1,65 @@
+{
+  "libraryName": "Toro's Grimoire",
+  "sprites": [
+    {
+      "id": "orc_ally",
+      "name": "Orc Ally",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_ally.png?raw=true",
+      "tags": ["orc", "humanoid", "warrior", "melee", "medium-level"]
+    },
+    {
+      "id": "orc_battlemage",
+      "name": "Orc Battlemage",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_battlemage.png?raw=true",
+      "tags": ["orc", "humanoid", "caster", "magic", "medium-level"]
+    },
+    {
+      "id": "orc_buffed",
+      "name": "Orc Buffed",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_buffed.png?raw=true",
+      "tags": ["orc", "humanoid", "brute", "melee", "high-strength"]
+    },
+    {
+      "id": "orc_gladiator",
+      "name": "Orc Gladiator",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_gladiator.png?raw=true",
+      "tags": ["orc", "humanoid", "fighter", "arena", "medium-level"]
+    },
+    {
+      "id": "orc_handsome",
+      "name": "Orc Handsome",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_handsome.png?raw=true",
+      "tags": ["orc", "humanoid", "charismatic", "rogue", "low-level"]
+    },
+    {
+      "id": "orc_heavy",
+      "name": "Orc Heavy",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_heavy.png?raw=true",
+      "tags": ["orc", "humanoid", "tank", "armored", "high-level"]
+    },
+    {
+      "id": "orc_mustache",
+      "name": "Orc Mustache",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_mustache.png?raw=true",
+      "tags": ["orc", "humanoid", "veteran", "melee", "medium-level"]
+    },
+    {
+      "id": "orc_royal_guard",
+      "name": "Orc Royal Guard",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_royal_guard.png?raw=true",
+      "tags": ["orc", "humanoid", "elite", "guard", "high-level"]
+    },
+    {
+      "id": "orc_sentinel",
+      "name": "Orc Sentinel",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_sentinel.png?raw=true",
+      "tags": ["orc", "humanoid", "scout", "ranged", "medium-level"]
+    },
+    {
+      "id": "orc_spiky",
+      "name": "Orc Spiky",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_spiky.png?raw=true",
+      "tags": ["orc", "humanoid", "berserker", "wild", "medium-level"]
+    }
+  ]
+}
