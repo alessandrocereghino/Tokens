@@ -1,0 +1,23 @@
+{
+  "libraryName": "Grimorio de GridoALE",
+  "sprites": [
+    {
+      "id": "orc_ally",
+      "name": "Orc Ally",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_ally.png?raw=true",
+      "tags": ["orc", "humanoid", "warrior", "melee", "medium-level"]
+    },
+    {
+      "id": "orc_battlemage",
+      "name": "Orc Battlemage",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_battlemage.png",
+      "tags": ["orc", "humanoid", "archer", "ranged", "medium-level"]
+    },
+    {
+      "id": "orc_battlemage",
+      "name": "Orc Battlemage",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_buffed.png?raw=true",
+      "tags": ["orc", "humanoid", "shaman", "caster", "medium-level"]
+    }
+  ]
+}
