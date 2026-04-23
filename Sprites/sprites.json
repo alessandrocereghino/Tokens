@@ -60,6 +60,24 @@
       "name": "Orc Spiky",
       "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/Orcs/orc_spiky.png?raw=true",
       "tags": ["orc", "humanoid", "berserker", "wild", "medium-level"]
+    },
+    {
+      "id": "red_orc_mage",
+      "name": "Red Orc Mage",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/OrcMage1.png?raw=true",
+      "tags": ["red-orc", "humanoid", "caster", "mage"]
+    },
+    {
+      "id": "red_orc_soldier",
+      "name": "Red Orc Soldier",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/OrcSoldier1.png?raw=true",
+      "tags": ["red-orc", "humanoid", "warrior", "soldier"]
+    },
+    {
+      "id": "red_orc_warlord",
+      "name": "Red Orc Warlord",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/OrcWarlord1.png?raw=true",
+      "tags": ["red-orc", "humanoid", "boss", "warlord", "elite"]
     }
   ]
 }
