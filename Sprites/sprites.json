@@ -99,9 +99,15 @@
     },
     {
       "id": "bardo_1",
-      "name": "Bardo",
+      "name": "Bardo v1",
       "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Bardo1.png?raw=true",
       "tags": ["hero", "humanoid", "bard", "support"]
+    },
+    {
+      "id": "bardo_2",
+      "name": "Bardo v2",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Bardo2.png?raw=true",
+      "tags": ["hero", "humanoid", "bard", "performance"]
     },
     {
       "id": "dosio_1",
@@ -116,16 +122,40 @@
       "tags": ["hero", "humanoid", "warrior", "elite"]
     },
     {
+      "id": "dosio_3",
+      "name": "Dosio v3",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Dosio3.png?raw=true",
+      "tags": ["hero", "humanoid", "warrior", "legendary"]
+    },
+    {
       "id": "ramza_1",
-      "name": "Ramza",
+      "name": "Ramza v1",
       "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Ramza1.png?raw=true",
       "tags": ["hero", "humanoid", "knight", "noble"]
     },
     {
+      "id": "ramza_2",
+      "name": "Ramza v2",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Ramza2.png?raw=true",
+      "tags": ["hero", "humanoid", "knight", "paladin"]
+    },
+    {
+      "id": "valandor_1",
+      "name": "Valandor",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Valandor1.png?raw=true",
+      "tags": ["hero", "humanoid", "mage", "ancient"]
+    },
+    {
       "id": "vegueta_1",
-      "name": "Vegueta",
+      "name": "Vegueta v1",
       "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Vegueta1.png?raw=true",
       "tags": ["hero", "humanoid", "fighter", "saiyan"]
+    },
+    {
+      "id": "vegueta_2",
+      "name": "Vegueta v2",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Vegueta2.png?raw=true",
+      "tags": ["hero", "humanoid", "fighter", "elite-saiyan"]
     }
   ]
 }
