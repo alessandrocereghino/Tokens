@@ -96,6 +96,36 @@
       "name": "Spider Hunter",
       "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Spider3.png?raw=true",
       "tags": ["spider", "beast", "creature", "stealth"]
+    },
+    {
+      "id": "bardo_1",
+      "name": "Bardo",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Bardo1.png?raw=true",
+      "tags": ["hero", "humanoid", "bard", "support"]
+    },
+    {
+      "id": "dosio_1",
+      "name": "Dosio v1",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Dosio1.png?raw=true",
+      "tags": ["hero", "humanoid", "warrior"]
+    },
+    {
+      "id": "dosio_2",
+      "name": "Dosio v2",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Dosio2.png?raw=true",
+      "tags": ["hero", "humanoid", "warrior", "elite"]
+    },
+    {
+      "id": "ramza_1",
+      "name": "Ramza",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Ramza1.png?raw=true",
+      "tags": ["hero", "humanoid", "knight", "noble"]
+    },
+    {
+      "id": "vegueta_1",
+      "name": "Vegueta",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Vegueta1.png?raw=true",
+      "tags": ["hero", "humanoid", "fighter", "saiyan"]
     }
   ]
 }
