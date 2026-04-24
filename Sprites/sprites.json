@@ -78,6 +78,24 @@
       "name": "Red Orc Warlord",
       "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/OrcWarlord1.png?raw=true",
       "tags": ["red-orc", "humanoid", "boss", "warlord", "elite"]
+    },
+    {
+      "id": "spider_1",
+      "name": "Giant Spider",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Spider1.png?raw=true",
+      "tags": ["spider", "beast", "creature", "venomous"]
+    },
+    {
+      "id": "spider_2",
+      "name": "Spider Crawler",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Spider2.png?raw=true",
+      "tags": ["spider", "beast", "creature", "agile"]
+    },
+    {
+      "id": "spider_3",
+      "name": "Spider Hunter",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Spider3.png?raw=true",
+      "tags": ["spider", "beast", "creature", "stealth"]
     }
   ]
 }
