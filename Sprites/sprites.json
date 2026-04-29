@@ -156,6 +156,12 @@
       "name": "Vegueta v2",
       "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Vegueta2.png?raw=true",
       "tags": ["hero", "humanoid", "fighter", "elite-saiyan"]
+    },
+    {
+      "id": "vegueta_3",
+      "name": "Vegueta v3",
+      "url": "https://github.com/alessandrocereghino/Tokens/blob/main/Sprites/RedOrcs/Vegueta2.png?raw=true",
+      "tags": ["hero", "humanoid", "fighter", "elite-saiyan"]
     }
   ]
 }
